@@ -1,0 +1,117 @@
+Những	L
+ngày	N
+đẹp_đẽ	A
+ấy	P
+,	CH
+bố	N
+luôn	R
+dành	V
+thời_gian	N
+để	V
+vui_vẻ	A
+với	E
+anh_em	N
+tôi	P
+.	CH
+
+Trong	E
+khi	N
+chờ	V
+nước	N
+nóng	A
+,	CH
+tôi	P
+pha	V
+rượu	N
+táo	N
+nóng	A
+.	CH
+
+Hàng	N
+trăm	M
+người	N
+đến	V
+dùng	V
+tiệc	N
+tự_chọn	A
+ở	E
+chỗ	N
+mẹ	N
+những	L
+ngày	N
+Giáng_sinh	Np
+.	CH
+
+Năm	N
+nào	P
+cũng	R
+vậy	P
+hoặc	Cc
+có_vẻ	X
+như_vậy	X
+.	CH
+
+Tôi	P
+chưa	R
+bao_giờ	P
+thực_sự	A
+cảm_thấy	V
+mệt_mỏi	A
+vì	E
+nó	P
+.	CH
+
+Tôi	P
+đã	R
+có_thể	R
+chống	V
+lại	R
+cảm_giác	N
+đó	P
+trong	E
+nhiều	A
+năm_qua	N
+.	CH
+
+Những	L
+năm	N
+gần_đây	N
+tôi	P
+qua_lại	V
+sân_bay	N
+Tân_Sơn_Nhất	Np
+thường_xuyên	A
+.	CH
+
+Trường	N
+tôi	P
+từng	R
+nghiêm_cấm	V
+sử_dụng	V
+điện_thoại	N
+trong	E
+lớp	N
+.	CH
+
+Học_sinh	N
+ngày_nay	N
+có_thể	R
+dễ_dàng	A
+tiếp_cận	V
+bài_học	N
+và	Cc
+phương_pháp	N
+giải	V
+bài_tập	N
+.	CH
+
+Điện_thoại	N
+thông_minh	A
+là	V
+công_cụ	N
+không_thể	X
+đảo_ngược	V
+trong	E
+cuộc_sống	N
+.	CH
+
