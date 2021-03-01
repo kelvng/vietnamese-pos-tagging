@@ -1,4 +1,4 @@
-# vietnamese-pos-tagging
+# Gắn thẻ POS tiếng Việt cho Văn bản
 
 ## 1.	Mục tiêu
 
