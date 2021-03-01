@@ -18,4 +18,4 @@ o	Kết quả: “Dù/C khá/R đắt/A nhưng/C tôi/P vẫn/R đồng_ý/V ./.
 ## 2.	Dữ liệu cho trước
 -	File traing: “vi_train.pos”
 -	File test: “vi_test.pos”
--	File hướng dân thông tin về nhãn POS: * [Singleton Patterns](https://github.com/nthanhkhang/Design-Pattern/tree/main/1%20-%20Singleton)
+-	File hướng dân thông tin về nhãn POS: * [Thông tin về nhãn POS](https://github.com/nthanhkhang/vietnamese-pos-tagging/blob/main/Thon%20tin%20nhan%20tu%20loai-v2.pdf)
