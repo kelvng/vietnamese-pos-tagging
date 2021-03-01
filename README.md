@@ -16,6 +16,7 @@ o	Câu input: “Dù khá đắt nhưng tôi vẫn đồng ý.”
 o	Kết quả: “Dù/C khá/R đắt/A nhưng/C tôi/P vẫn/R đồng_ý/V ./.”
 
 ## 2.	Dữ liệu cho trước
--	File traing: “vi_train.pos”
--	File test: “vi_test.pos”
+-	File traing: [vi_train.pos](https://raw.githubusercontent.com/nthanhkhang/vietnamese-pos-tagging/main/corpus/vi_train.txt?token=ART5A3OLQEYYF4YBUR52LILAHRVIK)
+-	File test: [vi_test.pos](https://raw.githubusercontent.com/nthanhkhang/vietnamese-pos-tagging/main/corpus/vi_test.txt?token=ART5A3OYGTWSYAMVXUVYQOTAHRVL2)
+-	
 -	File hướng dân thông tin về nhãn POS: [Thông tin về nhãn POS](https://github.com/nthanhkhang/vietnamese-pos-tagging/blob/main/Thon%20tin%20nhan%20tu%20loai-v2.pdf)
