@@ -1,5 +1,6 @@
 # vietnamese-pos-tagging
-1.	Mục tiêu
+# 1.	Mục tiêu
+
 Xây dựng chương trình (tool) gán nhãn từ loại (POS tagger) cho tiếng Việt.
 
 Kết quả đạt được là chương trình, có 2 chức năng:
