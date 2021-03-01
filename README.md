@@ -9,11 +9,9 @@ Kết quả đạt được là chương trình, có 2 chức năng:
 -	Đánh giá độ chính xác trên tập Test: tỉ lệ số từ gán nhãn đúng trên tổng số từ
 
 -	Input vào một câu tiếng Việt, cho ra nhãn của từng từ trong câu, ví dụ.
+-- Câu input: “Dù khá đắt nhưng tôi vẫn đồng ý.”
 
-
-- o	Câu input: “Dù khá đắt nhưng tôi vẫn đồng ý.”
-
-- o	Kết quả: “Dù/C khá/R đắt/A nhưng/C tôi/P vẫn/R đồng_ý/V ./.”
+-- Kết quả: “Dù/C khá/R đắt/A nhưng/C tôi/P vẫn/R đồng_ý/V ./.”
 
 ## 2.	Dữ liệu cho trước
 -	File traing: [vi_train.pos](https://raw.githubusercontent.com/nthanhkhang/vietnamese-pos-tagging/main/corpus/vi_train.txt?token=ART5A3OLQEYYF4YBUR52LILAHRVIK)
