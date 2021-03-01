@@ -1,2 +1,0 @@
-underthesea==1.1.9a2
-python-crfsuite==0.9.5
