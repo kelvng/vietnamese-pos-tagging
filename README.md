@@ -11,9 +11,9 @@ Kết quả đạt được là chương trình, có 2 chức năng:
 -	Input vào một câu tiếng Việt, cho ra nhãn của từng từ trong câu, ví dụ.
 
 
-o	Câu input: “Dù khá đắt nhưng tôi vẫn đồng ý.”
+- o	Câu input: “Dù khá đắt nhưng tôi vẫn đồng ý.”
 
-o	Kết quả: “Dù/C khá/R đắt/A nhưng/C tôi/P vẫn/R đồng_ý/V ./.”
+- o	Kết quả: “Dù/C khá/R đắt/A nhưng/C tôi/P vẫn/R đồng_ý/V ./.”
 
 ## 2.	Dữ liệu cho trước
 -	File traing: [vi_train.pos](https://raw.githubusercontent.com/nthanhkhang/vietnamese-pos-tagging/main/corpus/vi_train.txt?token=ART5A3OLQEYYF4YBUR52LILAHRVIK)
