@@ -1,4 +1,4 @@
-# Gắn thẻ POS tiếng Việt cho Văn bản
+# Gắn thẻ POS cho Văn bản Tiếng Việt
 
 ## 1.	Mục tiêu
 
