@@ -10656,7 +10656,7 @@ Cùng/A thời/N tác_quái/V và/C là/V bạn_bè/N của/E Hải/Np “/“ l
 
 Trong/E giây_phút/N giải_lao/V ngắn_ngủi/A ,/, chúng_tôi/P lân_la/V trò_chuyện/V ,/, em/N cho/V biết/V tên/N Dun/Np ,/, quê/N cách/V Bangkok/Np 500/M km/Nu về/E phía/N nam/N ,/, em/N mới/R 9/M tuổi/N ,/, cả/P nhà/N chỉ/R có/V em/N là/V con_trai/N ,/, các/L chị_gái/N đều/R làm_ruộng/V ,/, mẹ/N em/N đã/R mất/V 20.000/M baht/Nu mới/R có_thể/R cho/V em/N vào/E lò/N này/P ,/, số/N tiền/N gần/A 40.000/M baht/Nu học_phí/N còn/V nợ/V sẽ/R phải/V trả/V khi/N em/N được/V thượng_đài/V ./.
 
-Dẫu vậy/C Hoàng/Np không/R vì/E thế/P mà/C sao_nhãng/V ./.
+Dẫu_vậy/C Hoàng/Np không/R vì/E thế/P mà/C sao_nhãng/V ./.
 
 Vén/V lên/R ,/, kéo/V xuống/R nhưng/C .../... không/R kéo/V ra/R ./.
 
@@ -10812,7 +10812,7 @@ Một/M con/Nc gà/N cất/V tiếng/N gáy/V nghe/V khò_khè/A như/C ông_gi�
 
 Nhưng/C cuộc_đời/N sao/P lắm/A nỗi/Nc éo_le/A ./.
 
-Địa_điểm/N mới/A là/V chợ/N Tam_Bình/Np (/( quận/N Thủ_Đức/Np )/) ,/, chợ/N Hóc_Môn/Np (/( thường/R gọi/V là/C chợ/N Tân_Xuân/Np )/) và/C chợ/N thủy_ hải_sản/N Bình_Điền/Np (/( quận/N 8/M )/) ./.
+Địa_điểm/N mới/A là/V chợ/N Tam_Bình/Np quận/N Thủ_Đức/Np ,/, chợ/N Hóc_Môn/Np thường/R gọi/V là/C chợ/N Tân_Xuân/Np và/C chợ/N thủy_hải_sản/N Bình_Điền/Np quận/N 8/M ./.
 
 Đã/R đến/V lúc/N cần/V phải/V cho/E Fred/Np và/C gia_đình/N biết/V rằng/C tôi/P đã/R liên_lạc/V được/R với/E ông/Nc Hiếu/Np ./.
 
@@ -10860,7 +10860,7 @@ Hành_khách/N đang/R ngồi/V phòng/N chờ/V ở/E nhà_ga/N T1/Np xôn_xao/
 
 51%/M trong/E số/N đó/P có/V độ/N tuổi/N 18/M -/- 25/M ,/, 30%/M đã/R tốt_nghiệp/V THPT/Ny ./. Những/L con_số/N lạnh_lùng/A nhưng/C đó/P là/V những/L mất_mát/N quá/R lớn/A của/E cá_nhân/N ,/, của/E gia_đình/N ,/, xã_hội/N .../...
 
-“/“ Mỗi/L một/N cuốc/N xe_ôm/N về/V nhà/N phải/V mất/V 25.000/M -/- 30.000/M đ/Nu nhưng/C cũng/R không_thể/R đi/V đêm_hôm/N suốt/A như vậy/P được/R nên/C riết/R rồi/C cả/T tuần/N mới/R về/V nhà/N một/M lần/N ”/” ./.
+“/“ Mỗi/L một/N cuốc/N xe_ôm/N về/V nhà/N phải/V mất/V 25.000/M -/- 30.000/M đ/Nu nhưng/C cũng/R không_thể/R đi/V đêm_hôm/N suốt/A như_vậy/P được/R nên/C riết/R rồi/C cả/T tuần/N mới/R về/V nhà/N một/M lần/N ”/” ./.
 
 Rứa/P mà/C thư/N đến/V tay/N bác/Nc Khải/Np ./.
 
@@ -10928,7 +10928,7 @@ Trung_tâm/N (/( TT/Ny )/) Trọng_Điểm/Np ,/, 5/M g/Nu 30/M sáng/N đã/R n
 
 Bác_sĩ/N đã/R yêu_cầu/V mổ/V liền/R rồi/R nhưng/C vì/E tui/P ngoan_cố/A ,/, sợ/V mổ/V quá/R nên/C uống/V thuốc_Bắc/N ,/, ai/P chỉ/V gì/P cũng/R nghe/V ./.
 
-Những/L lò/N này/P tập_trung/V nhiều/A nhất/R ở/E các/L khu_vực/N như/C :/: đường/N Lê_Văn_Sĩ/Np (/( P/Ny (. .) 12/M ,/, Q/Ny (. .) 3/M )/) ,/, cổng/N xe_lửa/N số/N 6/M (/( Phú_Nhuận/Np )/) ,/, khu/N Bùi_Phát/Np ,/, Phạm_Văn_Hai/Np ,/, khu/N Bùi_Thị_Xuân/Np (/( P/Ny (. .) 2/M ,/, Tân_Bình/Np )/) ./.
+Những/L lò/N này/P tập_trung/V nhiều/A nhất/R ở/E các/L khu_vực/N như/C :/: đường/N Lê_Văn_Sĩ/Np (/( P/Ny 12/M ,/, Q/Ny 3/M )/) ,/, cổng/N xe_lửa/N số/N 6/M (/( Phú_Nhuận/Np )/) ,/, khu/N Bùi_Phát/Np ,/, Phạm_Văn_Hai/Np ,/, khu/N Bùi_Thị_Xuân/Np (/( P/Ny  2/M ,/, Tân_Bình/Np )/) ./.
 
 Trung_Quốc/Np là/V “/“ điểm_nóng/N ”/” toàn_cầu/N về/E nạn/N sao_chép/V và/C làm/V hàng/N giả/A ./.
 
@@ -11158,7 +11158,7 @@ Thế/P có/V nghĩa/N là/C cả/P bồn/N nước/N 500/M lít/Nu trên/E nóc
 
 Một/M cái/Nc tên/N “/“ Nguyen_T_./Np ”/” khác/A ,/, cánh/N cửa/N nặng_nề/A không/R chịu/V hé/V ./.
 
-Thì/C câu/N trả_lời/V là/V không_ thể_nào/R ngoảnh/V mặt/N làm_ngơ/V khi/N nhìn/V thấy/V những/L mảnh/Nc đời/N bất_hạnh/A ”/” ./.
+Thì/C câu/N trả_lời/V là/V không_thể_nào/R ngoảnh/V mặt/N làm_ngơ/V khi/N nhìn/V thấy/V những/L mảnh/Nc đời/N bất_hạnh/A ”/” ./.
 
 Các/L lão/N võ_sư/N nhận_xét/V trong/E trường_hợp/N có/V xảy/V ra/R trận/N chiến/V thì/C Tiền/Np cũng/R khó/A hạ/V được/R Sang/Np ./.
 
@@ -11212,7 +11212,7 @@ Riêng/T sữa/N uống/V cho/E công_nhân/N ,/, mỗi/L tháng/N công_ty/N nh
 
 Thầy/N Hùng/Np bảo/V :/: “/“ Chỉ/R có/V tivi/N một/M thời_gian/N mà/E Hoàng/Np khá/A lên/R rất/R nhiều/A ./.
 
-Còn/V lại/R trên/E đó/P ba/M cas/Nb cố_định/V chưa/R có/V người/N khiêng/V ,/, một số/L cán_bộ/N lãnh_đạo/N còn/V trên/E đó/P ,/, mình/P cần/V trở/V về/V ./.
+Còn/V lại/R trên/E đó/P ba/M cas/Nb cố_định/V chưa/R có/V người/N khiêng/V ,/, một_số/L cán_bộ/N lãnh_đạo/N còn/V trên/E đó/P ,/, mình/P cần/V trở/V về/V ./.
 
 Và/C như/C một/M kịch_bản/N quen_thuộc/A ,/, cậu/N đã/R gặp_gỡ/V với/E chất/N bột/N trắng/A trong/E một/M dịp/N sinh_nhật/N bạn/N và/C trở_thành/V con_nghiện/N từ/E đó/P ./.
 
@@ -11298,7 +11298,7 @@ Khi/N những/L người/N bình_thường/A nghe/V theo/V chính_phủ/N (/( M�
 
 Nếu/C là/V bò/N cái/A không/R chửa/V thì/C chỉ/R bán/V bằng/E giá/N bò/N thịt/V ,/, từ/E 7,5/M -/- 8/M triệu/M đồng/Nu ./.
 
-Anh/Nc Cường/Np kể/V ngày/N con/ Nc gái/N thi/V đậu/V ,/, gia_đình/N anh/N vui/A như/C tết/N ./.
+Anh/Nc Cường/Np kể/V ngày/N con/Nc gái/N thi/V đậu/V ,/, gia_đình/N anh/N vui/A như/C tết/N ./.
 
 Tuy_nhiên/C phòng/N cũng/R chỉ/R hẹp/A khoảng/A 20/M m2/Nu ,/, mái/Nc tôn/N thấp/A lè_tè/A ,/, và/C chứa/V đến/T hơn/A 30/M người/N ./.
 
@@ -11508,7 +11508,7 @@ Tất_cả/P đều/R để/E phục_vụ/V chu_đáo/A nhất/R cho/E khách/N 
 
 Dáng/N người/N thấp/A đậm/A ,/, lưng/N hơi/R gù/A ,/, Nguyễn_Quốc_Thái/Np có/V dáng_dấp/N của/E một/M nông_dân/N hơn/A là/V ông/N chủ/N cấp_nước/V ./.
 
-Trở/V về/V quê/N nhà/N ,/, chị/Nc Kim_Trâm/Np viết/V cho/E tôi/P :/: “/“ Vậy là/C chúng_tôi/P đã/R đến/V nước/N Mỹ/Np ,/, mẹ/N tôi/P đã/R ôm/V cuốn/Nc nhật_ký/N có/V thật/A của/E chị/N tôi/P vào/E ngực/N -/- sát/A nơi/N tim/N -/- và/C khóc/V ./.
+Trở/V về/V quê/N nhà/N ,/, chị/Nc Kim_Trâm/Np viết/V cho/E tôi/P :/: “/“ Vậy_là/C chúng_tôi/P đã/R đến/V nước/N Mỹ/Np ,/, mẹ/N tôi/P đã/R ôm/V cuốn/Nc nhật_ký/N có/V thật/A của/E chị/N tôi/P vào/E ngực/N -/- sát/A nơi/N tim/N -/- và/C khóc/V ./.
 
 Mấy/L anh_chị/N cũng/R kể/V về/E những/L trường_hợp/N tái/S nghiện/V sau/E 10/M ,/, 15/M năm/N mà/C mình/P đã/R biết/V ,/, những/L trường_hợp/N học_viên/N được/R tín_nhiệm/V cho/E về/V phép/N rồi/C không/R trở_lại/V trường/N mà/C mình/P đã/R gặp/V ,/, lại/R bàn_tán/V về/E sức/N quyến_rũ/V kỳ_lạ/A của/E ma_túy/N .../... Thế/T nhưng/C tất_cả/P những/L câu_chuyện/N buồn/A đó/P vẫn/R không/R xóa/V được/R những/L tình_cảm/N và/C sự/Nc tin_tưởng/V họ/P đã/R dành/V cho/E các/L học_viên/N gắn_bó/V với/E mình/P ,/, không/R xóa/V được/R mong_muốn/V một/M tương_lai/N tốt_đẹp/A hơn/A cho/E học_viên/N khi/N những/L sai_lầm/N ,/, bồng_bột/A của/E tuổi_trẻ/N đã/R đi/V qua/V .../...
 
@@ -11688,7 +11688,7 @@ Vừa/R trả_lời/V xong/A ,/, Tuấn/Np đã/R “/“ bận/V ”/” với/
 
 Một/M thợ/N lò/N tên/N Hùng/Np ,/, quê/N Thanh_Hóa/Np ,/, thấy/V tôi/P tay/N run_run/A cầm/V chiếc/Nc máy_ảnh/N ,/, cười/V lớn/A :/: “/“ Đằng/N kia/P nổ_mìn/V để/E khai_thác/V than/N đấy/T ”/” ./.
 
-Rạng/A sáng/N 5/M -/- 6/M -/- 2005/M ,/, Quân/Np và/C tôi/P rút/V về/E bar/Nb X/Ny trên/E đường/N Phạm_Ngũ_Lão/Np (/( Q/Ny (. .) 1/M )/) ./.
+Rạng/A sáng/N 5/M -/- 6/M -/- 2005/M ,/, Quân/Np và/C tôi/P rút/V về/E bar/Nb X/Ny trên/E đường/N Phạm_Ngũ_Lão/Np (/( Q/Ny  1/M )/) ./.
 
 Hương/Np là/V thế/P ,/, không/R lo/V cho/E mình/P mà/C chỉ/R lo/V cho/E những/L người_thân/N ;/; không/R bi_quan/A về/E số_phận/N mình/P ,/, lại/R nao/V lòng/N trước/E số_phận/N người/N khác/A ./.
 
@@ -11862,7 +11862,7 @@ TT/N -/- Cô/Nc bạn/N đồng_nghiệp/N đến/V từ/E Thượng_Hải/Np ,/
 
 Chính/T vì_vậy/Ny mà/C ở/E các/L giải/N đấu/V trong/E nước/N ,/, hay/C như/C đợt/N thi/V tuyển_chọn/V đi/V SEAP_Games/Np lần/N 3/M -/- 1965/M ,/, bằng/E đòn/N sở_trường/N này/P anh/Nc Có/Np đã/R khiến/V một/M loạt/N đối_thủ/N bất_tỉnh/A ./.
 
-“/“ Vậy là/C sự_nghiệp/N của/E nó/P chỉ/R được/V hai/M năm/N bốn/M tháng/N bốn/M ngày/N ”/” -/- ông/Nc Hinh/Np ,/, bà/N Ngơi/Np bấm/V đốt/N tay/N ./.
+“/“ Vậy_là/C sự_nghiệp/N của/E nó/P chỉ/R được/V hai/M năm/N bốn/M tháng/N bốn/M ngày/N ”/” -/- ông/Nc Hinh/Np ,/, bà/N Ngơi/Np bấm/V đốt/N tay/N ./.
 
 Mỗi/V ông/N quản_lý/V 7/M -/- 10/M trạm/N nước_sạch/N ,/, rất/R hiệu_quả/A ,/, bà_con/N mê/V dữ/A lắm/R ./.
 
